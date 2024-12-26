@@ -1,0 +1,22 @@
+body {
+    font-family: "Barlow", serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+
+  i {
+    font-size: 1.5em;
+    text-decoration: none;
+  }
+
+  i:hover {
+    color: #e23a3a;
+  }
+
+  a:any-link {
+    text-decoration: none;;
+  }
+
+  a i {
+    color: grey;
+  }
